@@ -16,9 +16,9 @@ This is the github repository for the capstone project for the NYU course: *Mess
 
 `Figures` contains images and statistical graphs produced
 
-**Purpose** : Predict bias for Yelp's listed businesses from review text using NLP
+**Purpose**: Predict bias for Yelp's listed businesses from review text using NLP
 
-#### **Approach**
+#### **Approach**:
 We will look at [Yelp Dataset Challenge’s](https://www.yelp.com/dataset) review dataset to explore if we can detect bias in Yelp reviews.  Yelp’s rating algorithm determines the overall rating without taking into account the reviewers’ special characteristics, while different people may have diverse rating tendency. Some people are reluctant to give a five star while some others  are the opposite. Even when two people have the same view on a restaurant, one may tend to give it a five star while 
 the other follow his or her own habit and give three star.
 
