@@ -1,7 +1,7 @@
 
 ##### Contributors to the Project: Ria Pinjani, Tim Zhou, Christina Ho
 
-This is the github repository for the capstone project for the NYU course: *Messy Data and Machine Learning Final Project Fall 2019*
+This is the github repository for the capstone project for the NYU course: *Messy Data and Machine Learning Final Project Fall 2019*.
 
 ### **Code File Structure:**
 `Scripts` contains code used in this project
