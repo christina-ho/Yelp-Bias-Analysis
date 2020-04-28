@@ -3,7 +3,7 @@
 
 This is the github repository for the capstone project for the NYU course: *Messy Data and Machine Learning Final Project Fall 2019*.
 
-### **Code File Structure:**
+**## Code File Structure:**
 `Scripts` contains code used in this project
 
  - `Data Cleaning.R` contains code used for reading in large files and initial cleaning
